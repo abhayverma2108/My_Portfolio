@@ -6,7 +6,7 @@ import twitterLight from '../../assets/twitter-light.svg';
 import twitterDark from '../../assets/twitter-dark.svg';
 
 import leetcodeLight from '../../assets/leetcode-Dark.svg';
-import leetcodeDark from '../../assets/leetcode-Light.svg';
+import leetcodeDark from '../../assets/leetcode-Light1.svg';
 
 import githubLight from '../../assets/github-light.svg';
 import githubDark from '../../assets/github-dark.svg';
