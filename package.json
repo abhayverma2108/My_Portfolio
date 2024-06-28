@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.3.3",
     "@eslint/config-array": "^0.17.0",
     "@eslint/object-schema": "^2.1.4",
     "lru-cache": "^10.2.2",
