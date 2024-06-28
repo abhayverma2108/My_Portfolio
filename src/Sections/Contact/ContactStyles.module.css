@@ -52,7 +52,7 @@ input[type='submit'] {
 }
 
 input[type='submit']:hover {
-  transform: scale(1.15);
+  transform: scale(1.05);
 }
 
 input[type='submit']:active {
@@ -77,4 +77,3 @@ input[type='submit']:active {
     width: 800px;
   }
 }
-
