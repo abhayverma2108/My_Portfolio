@@ -52,7 +52,7 @@ function Hero() {
           <a href="https://x.com/abhayv175" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
           </a>
-          <a href="https://x.com/abhayv175" target="_blank">
+          <a href="https://leetcode.com/u/abhayv175/" target="_blank">
             <img src={leetcodeIcon} alt="Leetcode Icon" />
           </a>
           <a href="https://github.com/abhayverma2108" target="_blank">
