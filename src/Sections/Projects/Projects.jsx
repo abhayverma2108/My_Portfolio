@@ -17,7 +17,7 @@ function Projects() {
         />
         <ProjectCard
           src={moveIt}
-          link="https://github.com/abhayverma2108/MOVE-IT"
+          link="https://abhayverma2108.github.io/MOVE-IT/"
           h3="Move It"
           p="Courier Services"
         />
