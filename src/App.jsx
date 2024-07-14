@@ -1,9 +1,9 @@
 import './App.css';
-import Footer from './sections/Footer/Footer.jsx';
-import Contact from './sections/Contact/Contact.jsx';
-import Hero from './sections/Hero/Hero.jsx';
-import Projects from './sections/Projects/Projects.jsx';
-import Skills from './sections/Skills/Skills.jsx';
+import Footer from './Sections/Footer/Footer.jsx';
+import Contact from './Sections/Contact/Contact.jsx';
+import Hero from './Sections/Hero/Hero.jsx';
+import Projects from './Sections/Projects/Projects.jsx';
+import Skills from './Sections/Skills/Skills.jsx';
 
 function App() {
   return (
