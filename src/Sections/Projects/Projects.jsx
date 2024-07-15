@@ -3,6 +3,7 @@ import messenger from '../../assets/Messenger.png';
 import moveIt from '../../assets/Move It.png';
 import Bank from '../../assets/Bank.png';
 import ProjectCard from '../../common/ProjectCard';
+import Vocab from '../../assets/GreekVocab.png'
 
 function Projects() {
   return (
@@ -26,6 +27,12 @@ function Projects() {
           link="https://github.com/abhayverma2108/Bank_Application"
           h3="Mini Bank"
           p="Bank Application"
+        />
+        <ProjectCard
+          src={Vocab}
+          link="https://github.com/BenBinary/greek_vocs"
+          h3="Greek Voc"
+          p="Vocabulary App"
         />
       </div>
     </section>
