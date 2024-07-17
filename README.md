@@ -32,8 +32,3 @@ npm run dev
 * Twitter: [@abhayv175](https://twitter.com/abhayv175)
 * Github: [@abhayverma2108](https://github.com/abhayverma2108)
 * LinkedIn: [@abhayv175](https://linkedin.com/in/abhayv175)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
