@@ -58,9 +58,6 @@ function Hero() {
           <a href="https://github.com/abhayverma2108" target="_blank">
             <img src={githubIcon} alt="Github icon" />
           </a>
-          <a href="https://www.linkedin.com/in/abhayv175/" target="_blank">
-            <img src={linkedinIcon} alt="Linkedin icon" />
-          </a>
         </span>
         <p className={styles.description}>
           With a passion for developing modern web apps for commercial
